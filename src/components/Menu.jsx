@@ -3,7 +3,7 @@ import DishesCard from "../layouts/DishesCard";
 import menu1 from "../assets/img/ddnews.jpeg";
 import menu2 from "../assets/img/hindustan times.png";
 import menu3 from "../assets/img/india today.png";
-import menu4 from "../assets/img/Indian express.png";
+import menu4 from "../assets/img/Indian Express.png";
 import menu5 from "../assets/img/ndtv.png";
 import menu6 from "../assets/img/wion.png";
 
